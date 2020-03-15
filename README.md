@@ -8,6 +8,7 @@ Remove Android password
 2. /data/system/gatekeeper.password.key
 3. /data/system/gatekeeper.pattern.key
 4. /data/system/locksettings.db
+
 来清除开机密码
 
 # 声明
